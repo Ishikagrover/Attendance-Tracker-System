@@ -1,0 +1,7 @@
+Attendance Report
+------------------------------
+Student Name      Check-in Time
+------------------------------
+edw                 2:23
+------------------------------
+Total Students Present: 1
